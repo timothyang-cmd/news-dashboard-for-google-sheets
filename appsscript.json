@@ -1,0 +1,9 @@
+# Apps Script / local files
+.clasp.json
+node_modules/
+.env
+.DS_Store
+
+# Never commit local secrets
+*.secret
+secrets.json
